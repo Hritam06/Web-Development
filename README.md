@@ -1,3 +1,3 @@
 # Web-Development
 
-A website that contains images of wild animals.
+A website that contains image gallery of wild animals.
